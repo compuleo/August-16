@@ -1,0 +1,64 @@
+p {
+    color: brown; font-weight: 700; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#intro {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ovni {
+    border-radius: 50px;
+    text-align: center;
+}
+
+#tabladefuentes {
+    align-content: center;
+}
+
+#ejemplo1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ejemplo2 {
+    font-size: larger;
+}
+
+#ejemplo3 {
+    font-weight: 900;
+}
+
+#ejemplo4 {
+    font-variant: small-caps;
+}
+
+#ejemplo5 {
+    color: chocolate;
+}
+
+#ejemplo6 {
+    text-align: left;
+}
+
+#ejemplo7 {
+    vertical-align: baseline;
+}
+
+h1 {
+    color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
